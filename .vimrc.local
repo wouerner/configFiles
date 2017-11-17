@@ -1,4 +1,6 @@
 set nowrap
+set title
+
 :colorscheme dracula
 " Konsole para mudar o ponteiro no modos do vim
 let &t_SI = "\<Esc>]50;CursorShape=1\x7"
